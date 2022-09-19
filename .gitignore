@@ -1,0 +1,3 @@
+target/*
+server/*
+!server/paper.jar
